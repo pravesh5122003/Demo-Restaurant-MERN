@@ -26,7 +26,7 @@ https://restaurent-full-mern-website-6zlr.vercel.app
 
 <!-- Row 2: Cart + Seller Dashboard -->
 <div style="display: flex; gap: 10px;">
-  <img src="./screenshots/odering.png" alt="Cart Page" width="300" height="auto" />
+  <img src="./screenshots/odering.png" alt="ordering Page" width="300" height="auto" />
   <img src="./screenshots/seller.png" alt="Seller Dashboard" width="300" height="auto" />
 </div>
 
