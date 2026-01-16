@@ -19,7 +19,7 @@ https://restaurent-full-mern-website-6zlr.vercel.app
 <!-- Row 1: Home + Login -->
 <div style="display: flex; gap: 10px;">
   <img src="./screenshots/home.png" alt="Home Page" width="300" height="auto" />
-  <img src="./screenshots/login.png" alt="Login Page" width="300" height="auto" />
+  <img src="./screenshots/login.png" alt="Login Page" width="300" height="auto" /> 
 </div>
 
 <br/>
